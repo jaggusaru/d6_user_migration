@@ -1,0 +1,5 @@
+name: d6_user_migration
+description: 'D6 user Migration'
+type: module
+package: Custom
+core: 8.x
